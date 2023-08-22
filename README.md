@@ -15,7 +15,7 @@ The primary objective of this project is to harness the capabilities of the GPT 
 
 -Efficiency Enhancement
 
-![chatbot](https://github.com/JorgeSC98/Radiology-Center-Appointment-Booking-Chatbot/blob/main/Chatbot_2.png)
+![chatbot](https://github.com/JorgeSC98/Radiology-Center-Appointment-Booking-Chatbot/blob/main/Chatbot_5.png)
 
 Advantages of using an AI:
 

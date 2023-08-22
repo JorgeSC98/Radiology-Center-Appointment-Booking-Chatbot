@@ -7,7 +7,7 @@ Welcome to the Radiology Center Appointment Booking Chatbot repository! This pro
 
 Objective
 
-The primary objective of this project is to harness the capabilities of the GPT API to create a sophisticated chatbot for appointment booking in radiology centers. By leveraging AI-driven conversations, this project aims to achieve the following goals:
+The primary objective of this project is to harness the capabilities of the GPT API to create a sophisticated chatbot for appointment booking in "radiology" centers. By leveraging AI-driven conversations, this project aims to achieve the following goals:
 
 -Human-Like Interaction
 

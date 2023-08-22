@@ -1,5 +1,5 @@
 # Radiology-Center-Appointment-Booking-Chatbot
-Introduction
+
 Welcome to the Radiology Center Appointment Booking Chatbot repository! This project introduces an innovative solution to streamline the chatbot developing process. Our chatbot is designed to simplify the appointment scheduling experience, enhance efficiency developing times, and prove new AI tools. Our chatbot, empowered by the GPT (Generative Pre-trained Transformer) API, revolutionizes this process by providing a natural language interface for any kind of service.
 
 

@@ -6,13 +6,18 @@ Objective
 
 The primary objective of this project is to harness the capabilities of the GPT API to create a sophisticated chatbot for appointment booking in radiology centers. By leveraging AI-driven conversations, this project aims to achieve the following goals:
 
--Human-Like Interaction: 
+-Human-Like Interaction
+
 -Contextual Understanding
+
 -Efficiency Enhancement
 
 Advantages of using an AI:
 
 -Conversational Experience
+
 -Reduced Workload
+
 -Effortless Modifications
--Adaptability:
+
+-Adaptability

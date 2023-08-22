@@ -27,6 +27,8 @@ Advantages of using an AI:
 
 -Adaptability
 
+
+
 Getting Started
 
 To leverage the  Radiology Appointment Booking Chatbot, follow these steps:

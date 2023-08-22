@@ -15,7 +15,7 @@ The primary objective of this project is to harness the capabilities of the GPT 
 
 -Efficiency Enhancement
 
-![chatbot](https://github.com/JorgeSC98/Radiology-Center-Appointment-Booking-Chatbot/blob/main/Chatbot_5.png)
+![chatbot](https://github.com/JorgeSC98/Radiology-Center-Appointment-Booking-Chatbot/blob/main/Chatbot_2.png)
 
 Advantages of using an AI:
 
@@ -43,4 +43,4 @@ To leverage the  Radiology Appointment Booking Chatbot, follow these steps:
 
 The chatbot is so easy to develop and modify that you can even change the lenguage by only asking for it in the prompt.
 
-![chatbot](https://github.com/JorgeSC98/Radiology-Center-Appointment-Booking-Chatbot/blob/main/Chatbot_4.png)
+![chatbot](https://github.com/JorgeSC98/Radiology-Center-Appointment-Booking-Chatbot/blob/main/Chatbot_5.png)

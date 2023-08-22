@@ -41,6 +41,6 @@ To leverage the  Radiology Appointment Booking Chatbot, follow these steps:
 
 -Run the chatbot application and experience the cutting-edge AI-driven appointment booking process.
 
-The chatbot is so easy to develop and to modify that you can even change the lenguage by only asking for it in the prompt.
+The chatbot is so easy to develop and modify that you can even change the lenguage by only asking for it in the prompt.
 
-![chatbot](https://github.com/JorgeSC98/Radiology-Center-Appointment-Booking-Chatbot/blob/main/Chatbot_3.png)
+![chatbot](https://github.com/JorgeSC98/Radiology-Center-Appointment-Booking-Chatbot/blob/main/Chatbot_4.png)
